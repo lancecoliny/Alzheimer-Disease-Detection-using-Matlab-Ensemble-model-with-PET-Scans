@@ -47,8 +47,9 @@ The model uses a combination of:
 
 ## Output
 
-Figures/output1.jpg
-Figures/output2.jpg
+![output1](https://github.com/user-attachments/assets/9db68e68-432b-45dc-acf2-7b8592c72afd)
+![output2](https://github.com/user-attachments/assets/f4eb233a-06e6-4b08-a8ab-8afd68249381)
+
 
 ## 📄 License
 
