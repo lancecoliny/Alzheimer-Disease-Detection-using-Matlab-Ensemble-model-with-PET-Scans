@@ -47,7 +47,8 @@ The model uses a combination of:
 
 ## Output
 
-
+https://github.com/lancecoliny/Alzheimer-Disease-Detection-using-Matlab-Ensemble-model-with-PET-Scans/blob/main/Figures/output1.jpg
+https://github.com/lancecoliny/Alzheimer-Disease-Detection-using-Matlab-Ensemble-model-with-PET-Scans/blob/main/Figures/output2.jpg
 
 ## 📄 License
 
